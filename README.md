@@ -9,3 +9,6 @@ Data Analysis,
 Data Modeling,
 Spreadsheets,
 Tableau.
+
+Task 1: Data analysis
+Task 2: Forensic technology
